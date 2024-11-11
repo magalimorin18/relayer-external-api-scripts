@@ -1,0 +1,72 @@
+{
+  "lsp6ControllerAddress": ["0x9d9b6B38049263d3bCE80fcA3314d9CbF00C9E9D"],
+  "lsp3ProfileMetadata": {
+    "lsp3ProfileJson": {
+      "LSP3Profile": {
+        "name": "sandro",
+        "description": "Technology Enthusiast & Early Lukso Supporter",
+        "links": [],
+        "tags": ["Lukso", "Web3", "Swiss"],
+        "profileImage": [
+          {
+            "width": 320,
+            "height": 320,
+            "url": "ipfs://bafkreifzajflcehakjdl3rjupdkstc57nx7hvhbwucjqlhylpzhusa2dji",
+            "verification": {
+              "method": "keccak256(bytes)",
+              "data": "0xf510c1d46bc7fefa0a090a95096b727da7a2a0901e8fc3e639c52ea67655d2ac"
+            }
+          }
+        ],
+        "backgroundImage": [
+          {
+            "width": 1800,
+            "height": 1291,
+            "verification": {
+              "method": "keccak256(bytes)",
+              "data": "0x1a96dc442582f0eb7a39c00dca1f9fd13656d0b8dea510c5f7a737820cef6ae1"
+            },
+            "url": "ipfs://QmeHjn5J9UzsYUngM8ap5dqFFTNzcvPp2nKGyvuwDEesmM"
+          },
+          {
+            "width": 1024,
+            "height": 734,
+            "verification": {
+              "method": "keccak256(bytes)",
+              "data": "0x43c8dc825fd8215038f1b1160ae852cdf741e2197196a9e657860a27e88e711d"
+            },
+            "url": "ipfs://QmcxZ3MrSCvFbsRY1LgRsYbHPwr6eonP4v3p9TF5TZ8U52"
+          },
+          {
+            "width": 640,
+            "height": 459,
+            "verification": {
+              "method": "keccak256(bytes)",
+              "data": "0xfc2ccbd8c63226f508464224bc457e819bdf3ef74acfe43027e0d860377ab1fd"
+            },
+            "url": "ipfs://QmYfnDt7epLWsVjhpMDF2G7FqMLmEiJnW6ZWtpuVCqeTaF"
+          },
+          {
+            "width": 320,
+            "height": 229,
+            "verification": {
+              "method": "keccak256(bytes)",
+              "data": "0xdd7d9fda581d964cb1f7281a7925401b135befd278a7390fd484065902416ed3"
+            },
+            "url": "ipfs://QmX2NXuioz7y4V47Bw8ed56CZeH4sBAbvXEMKfdkaUC7Jm"
+          },
+          {
+            "width": 180,
+            "height": 129,
+            "verification": {
+              "method": "keccak256(bytes)",
+              "data": "0xec4d48adbaee5b4a891b0d970eb87c9b46cfb902792a500205d0ab5689ce6e02"
+            },
+            "url": "ipfs://QmfNe5KCREQpoZnQiiMyJsyTg8EP1cswESu5xpJqtPQPqW"
+          }
+        ]
+      }
+    },
+    "ipfsUrl": "ipfs://bafkreigpavtdu5p5ymjczb4j5im442onv3g5i7gtzkl243n7canqymdnc4"
+  }
+}
